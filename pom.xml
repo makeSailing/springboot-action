@@ -6,6 +6,9 @@
     <groupId>com.makesailing</groupId>
     <artifactId>springboot-action</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>springboot-annotation</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>springboot-action</name>
