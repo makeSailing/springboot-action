@@ -1,4 +1,4 @@
-package com.makesailing.neo.annotation;
+package com.makesailing.neo.use;
 
 /**
  * #
