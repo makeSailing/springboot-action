@@ -1,4 +1,4 @@
-package com.makesailing.neo.dao;
+package com.makesailing.neo.repository;
 
 import com.makesailing.neo.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
