@@ -1,0 +1,15 @@
+my:
+  name: makesailing
+  age: 18
+
+person:
+  name: 小李
+  age: 24
+  number: ${random.int}
+  uuid : ${random.uuid}
+  max: ${random.int(10)}
+  value: ${random.value}
+  greeting: hi,${person.name}
+spring:
+  profiles:
+    active: dev
